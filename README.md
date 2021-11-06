@@ -1,1 +1,1 @@
-# CS573-dataviz-final-project-
+# CS573 dataviz final project
